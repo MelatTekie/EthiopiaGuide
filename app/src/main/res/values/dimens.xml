@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizer">11dp</dimen>
+    <dimen name="wid1">230dp</dimen>
+    <dimen name="sizerr">30sp</dimen>
+    <dimen name="sp">14sp</dimen>
+    <dimen name="wid2">159dp</dimen>
+    <dimen name="sizer1">18sp</dimen>
+    <dimen name="wid3">120dp</dimen>
+    <dimen name="wid4">124dp</dimen>
+    <dimen name="wid5">126dp</dimen>
+    <dimen name="wid6">187dp</dimen>
+    <dimen name="wid7">132dp</dimen>
+    <dimen name="wid8">182dp</dimen>
+    <dimen name="wid9">77dp</dimen>
+    <dimen name="sizerr2">24sp</dimen>
+    <dimen name="wid10">125dp</dimen>
+    <dimen name="ht">593dp</dimen>
+    <dimen name="wid11">200dp</dimen>
+    <dimen name="ht1">162dp</dimen>
+    <dimen name="wid12">141dp</dimen>
+</resources>

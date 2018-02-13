@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Diner Menu</string>
+    <string name="label">BreakFast</string>
+    <string name="OPTION1">scrambled eggs</string>
+    <string name="OPTION2">waffle</string>
+    <string name="OPTION3">French Toast</string>
+    <string name="OPTION4">Pancakes</string>
+    <string name="OPTION5">Oats</string>
+    <string name="scram">$ 3.00</string>
+    <string name="waff">$ 5.00</string>
+    <string name="toast">$4.00</string>
+    <string name="oat">$2.00</string>
+    <string name="pan">$6.00</string>
+    <string name="desrt">Brownie</string>
+    <string name="desrt2">Ice cream</string>
+    <string name="adder">Add</string>
+    <string name="chec">CheckOut</string>
+    <string name="seaf1">shrimp</string>
+    <string name="seaf2">Lobster</string>
+    <string name="seaf3">Clams</string>
+    <string name="seaf4">Oyster</string>
+    <string name="seaf5">Salmon</string>
+    <string name="sald1">Caesars</string>
+    <string name="sald2">Garden</string>
+    <string name="juc1">Orange</string>
+    <string name="juc2">Apple</string>
+    <string name="juc3">Grape</string>
+    <string name="juc4">Pineapple</string>
+    <string name="past1">Lasagne</string>
+    <string name="past2">Spaghetti</string>
+    <string name="past3">Fettuccine</string>
+    <string name="past4">Macaroni</string>
+    <string name="past5">Linguine</string>
+    <string name="label1">Name:</string>
+    <string name="label2">Address:</string>
+    <string name="label3">Phone Number:</string>
+    <string name="label4">CreditCard Number:</string>
+    <string name="conatc">Subscribe</string>
+    <string name="email">receieve emails on deals</string>
+    <string name="subscr">Subscribe for Rewards Program</string>
+    <string name="delv">Is this a delivery?</string>
+    <string name="tog">No</string>
+    <string name="tog2">Yes</string>
+    <string name="total">Total (Tax Included)</string>
+    <string name="tip">How Much would you like to Tip?</string>
+    <string name="spiner">Rate your experience Below</string>
+    <string name="val1">Excellent</string>
+    <string name="utencil">utensils included?</string>
+    <string name="rad1">Yes</string>
+    <string name="uten2">No</string>
+    <string name="final2">Done</string>
+    <string name="num">0</string>
+    <string name="sumer">Order Summary</string>
+    <string name="vgg">Thankyou For your Business....Breakfast Deals are displayed below</string>
+    <string-array name="experience">
+        <item>"Excellent"</item>
+        <item>"Good"</item>
+        <item>"Poor"</item>
+    </string-array>
+
+</resources>

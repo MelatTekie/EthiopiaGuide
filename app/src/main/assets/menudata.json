@@ -1,0 +1,21 @@
+{
+  "menus":[
+    {
+      "id":"Tuesdays waffle...$9.00"
+    } ,
+    {
+      "id":"Thursdays French Toast...$5.00"
+    },
+    {
+      "id":"Mondays bacon...$3.00"
+    },
+    {
+      "id":"Mondays PanCakes....$4.00"
+    },
+    {
+      "id":"Fridays eggs....$9.00"
+    }
+
+  ]
+
+}
